@@ -39,7 +39,8 @@ youtube_channels = {
         "UCwvXnrOCRlhokHlJwohf2OA",  # The AI Automators
         "UCNQbF87QPV685oFnHxb0zPg",  # Tasia Custode
         "UCmNAkARqTFvNoyxmFhKTS9Q",  # Rick Mulready
-        "UCGk1LitxAZVnqQn0_nt5qxw"   # Pat Flynn
+        "UCGk1LitxAZVnqQn0_nt5qxw",   # Pat Flynn
+        "UCerWGX7_E2fR2spWSxAPwog",  # Efficient App (Alex & Andra)
     ],
     "Programming & Development": [
         "UCNQ6FEtztATuaVhZKCY28Yw",  # Chai aur Code
